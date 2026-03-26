@@ -1,0 +1,81 @@
+#EXTM3U
+
+# --- CHILE ---
+
+#EXTINF:-1 group-title="Chile",13C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 group-title="Chile",TVN
+http://217.26.190.76:8888/play/a0m6/index.m3u8
+
+#EXTINF:-1 group-title="Chile",CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Chile",13 ENTRETENCIÓN
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1 group-title="Chile",13 FESTIVAL
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF:-1 group-title="Chile",13 HUMOR
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 group-title="Chile",13 REALITIES
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1 group-title="Chile",13 TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 group-title="Chile",CHILECHANEL
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1 group-title="Chile",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 group-title="Chile",TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 group-title="Chile",LA RED
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="Chile",MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Chile",CHILEVISIÓN NOTICIAS
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Chile",CANAL 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Chile",CNN CHILE
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Chile",OSORNO TV
+https://videostream.chileservidores.com:8081/osornotv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Chile",CANAL5 PUERTO MONTT
+https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Chile",ALERCE TV
+https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
+
+
+
+
+
+# --- DEPORTES ---
+
+#EXTINF:-1 group-title="Deportes",ESPN
+PEGA_AQUI_EL_LINK
+
+#EXTINF:-1 group-title="Deportes",FOX Sports
+PEGA_AQUI_EL_LINK
+
+
+# --- INTERNACIONALES ---
+
+#EXTINF:-1 group-title="Internacional",CNN
+PEGA_AQUI_EL_LINK
+
+#EXTINF:-1 group-title="Internacional",BBC
+PEGA_AQUI_EL_LINK
