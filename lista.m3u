@@ -9,7 +9,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 http://217.26.190.76:8888/play/a0m6/index.m3u8
 
 #EXTINF:-1 group-title="Chile",CHV
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+http://45.232.210.1:18000/play/a087/index.m3u8
 
 #EXTINF:-1 group-title="Chile",13 ENTRETENCIÓN
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
@@ -36,7 +36,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF:-1 group-title="Chile",LA RED
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+http://45.232.210.1:18000/play/a084/index.m3u8
 
 #EXTINF:-1 group-title="Chile",MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
@@ -45,7 +45,7 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Chile",CANAL 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+http://45.232.210.1:18000/play/a088/index.m3u8
 
 #EXTINF:-1 group-title="Chile",CNN CHILE
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
