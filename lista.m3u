@@ -68,8 +68,8 @@ https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Deportes",ESPN
 http://38.224.175.2:8000/play/a02d/index.m3u8
 
-#EXTINF:-1 group-title="Deportes",FOX Sports
-PEGA_AQUI_EL_LINK
+#EXTINF:-1 group-title="Deportes",TNt Sports premium
+http://38.226.210.46:8000/play/a05m/index.m3u8
 
 #EXTINF:-1 group-title="Deportes",TNT Sports Premium Argentina
 http://138.121.114.91:8000/play/a06z/index.m3u8
