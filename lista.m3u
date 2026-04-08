@@ -66,16 +66,36 @@ https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
 # --- DEPORTES ---
 
 #EXTINF:-1 group-title="Deportes",ESPN
-PEGA_AQUI_EL_LINK
+http://38.224.175.2:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 group-title="Deportes",FOX Sports
 PEGA_AQUI_EL_LINK
 
+#EXTINF:-1 group-title="Deportes",TNT Sports Premium Argentina
+http://138.121.114.91:8000/play/a06z/index.m3u8
 
 # --- INTERNACIONALES ---
 
 #EXTINF:-1 group-title="Internacional",CNN
-PEGA_AQUI_EL_LINK
+http://38.224.175.2:8000/play/a0u7/index.m3u8
 
-#EXTINF:-1 group-title="Internacional",BBC
-PEGA_AQUI_EL_LINK
+#EXTINF:-1 group-title="Internacional",CNN Internacional
+http://38.224.175.2:8000/play/a034/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",TELEMUNDO NOTICIAS
+http://38.224.175.2:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",TELEMUNDO INTERNACIONAL
+http://38.224.175.2:8000/play/a01w/index.m3u8
+
+
+# --- CANALES PREMIUM ---
+
+#EXTINF:-1 group-title="Canales Premium",HBO
+http://38.224.175.2:8000/play/a0tr/index.m3u8
+
+#EXTINF:-1 group-title="Canales Premium",HBO
+
+#EXTINF:-1 group-title="Canales Premium",HBO
+
+#EXTINF:-1 group-title="Canales Premium",HBO
