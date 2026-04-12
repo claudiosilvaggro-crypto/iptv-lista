@@ -60,6 +60,16 @@ https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8?Pla
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
 
 
+# --- ESPAÑA ---
+
+#EXTINF:-1 group-title="España",TVE
+http://38.52.208.106:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 group-title="España",SUN CHANNEL
+http://38.226.210.46:8000/play/a03s/index.m3u8
+
+
+
 
 
 
@@ -85,8 +95,41 @@ http://38.224.175.2:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="Internacional",TELEMUNDO NOTICIAS
 http://38.224.175.2:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 group-title="Internacional",TELEMUNDO INTERNACIONAL
-http://38.224.175.2:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Internacional",UNIVERSAL
+http://181.78.98.214:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",CINECANAL
+http://38.52.208.106:8000/play/a047/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",DHE
+http://38.52.208.106:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",FX
+http://38.52.208.106:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",CINEMAX
+http://181.78.98.214:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",WARNER
+http://181.78.98.214:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 group-title="Internacional", MULTIPREMIER
+http://181.78.98.214:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",SPACE
+http://181.78.98.214:8000/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",PARAMOUNT
+http://181.78.98.214:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",STAR CHANNEL
+http://181.78.98.214:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",GOLDEN EDGE
+http://38.226.210.46:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",GOLDEN 
+http://38.226.210.46:8000/play/a04o/index.m3u8
 
 
 # --- CANALES PREMIUM ---
@@ -94,8 +137,48 @@ http://38.224.175.2:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="Canales Premium",HBO
 http://38.224.175.2:8000/play/a0tr/index.m3u8
 
-#EXTINF:-1 group-title="Canales Premium",HBO
+#EXTINF:-1 group-title="Canales Premium",HBO Family
+http://8.242.175.210:8000/play/a06p/index.m3u8
 
-#EXTINF:-1 group-title="Canales Premium",HBO
+#EXTINF:-1 group-title="Canales Premium",HBO Mundi
+http://8.242.175.210:8000/play/a08u/index.m3u8
 
-#EXTINF:-1 group-title="Canales Premium",HBO
+#EXTINF:-1 group-title="Canales Premium",HBO Signature
+http://8.242.175.210:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 group-title="Canales Premium",Universal Premiere
+http://38.52.208.106:8000/play/a04i/index.m3u8
+
+#EXTINF:-1 group-title="Canales Premium",Universal Crime
+http://38.52.208.106:8000/play/a04l/index.m3u8
+
+#EXTINF:-1 group-title="Canales Premium",HBO 2
+http://181.78.98.214:8000/play/a00h/index.m3u8
+
+# --- CANALES TELENOVELAS Y SERIES ---
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series", K Dramas
+
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",Pasiones
+http://38.52.208.106:8000/play/a04x/index.m3u8
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",TNT Novelas
+http://38.52.208.106:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",TNT Series
+http://38.52.208.106:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",AMC
+http://38.52.208.106:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",TELENOVELAS
+http://181.78.98.214:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",TELEMUNDO INTERNACIONAL
+http://181.78.98.214:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",AMC Series
+http://38.226.210.46:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",
