@@ -221,7 +221,7 @@ http://38.224.231.98:8000/play/a061/index.m3u8
 #EXTINF:-1 group-title="Internacional",EUROCHANNEL
 http://38.224.231.98:8000/play/a01d/index.m3u8
 
-#EXTINF:-1 group-title="España",SUN CHANNEL
+#EXTINF:-1 group-title="Internacional",SUN CHANNEL
 http://38.226.210.46:8000/play/a03s/index.m3u8
 
 
