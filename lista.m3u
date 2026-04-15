@@ -329,7 +329,7 @@ http://38.226.210.46:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="Canales Telenovelas y Series",USA
 http://38.224.231.98:8000/play/a040/index.m3u8
 
-# --- CANALES PREMIUM ---
+# --- PELICULAS ---
 
 #EXTINF:-1 group-title="Peliculas",Avatar (2009) EXTENDED
 http://cinemagold.club:80/movie/Leec3324/Leec3324/465963.mp4
