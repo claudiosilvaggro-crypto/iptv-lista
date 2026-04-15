@@ -39,7 +39,7 @@ http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57192
 http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/51
 
 #EXTINF:-1 group-title="Chile",LA RED
-http://45.232.210.1:18000/play/a084/index.m3u8
+http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/186528
 
 #EXTINF:-1 group-title="Chile",MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
@@ -51,7 +51,7 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3
 http://45.232.210.1:18000/play/a088/index.m3u8
 
 #EXTINF:-1 group-title="Chile",CNN CHILE
-http://38.226.210.46:8000/play/a03k/index.m3u8
+http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/9903
 
 #EXTINF:-1 group-title="Chile",OSORNO TV
 https://videostream.chileservidores.com:8081/osornotv/index.m3u8?PlaylistM3UCL
@@ -204,7 +204,7 @@ http://38.224.231.98:8000/play/a02m/index.m3u8
 # --- INTERNACIONALES ---
 
 #EXTINF:-1 group-title="Internacional",CNN
-http://38.224.175.2:8000/play/a0u7/index.m3u8
+http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/10251
 
 #EXTINF:-1 group-title="Internacional",CNN Internacional
 http://38.224.175.2:8000/play/a034/index.m3u8
