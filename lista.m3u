@@ -33,10 +33,10 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
 #EXTINF:-1 group-title="Chile",TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/57192
 
 #EXTINF:-1 group-title="Chile",TV CHILE
-
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/51
 
 #EXTINF:-1 group-title="Chile",LA RED
 http://45.232.210.1:18000/play/a084/index.m3u8
@@ -61,6 +61,9 @@ https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8?Pla
 
 #EXTINF:-1 group-title="Chile",ALERCE TV
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Chile",Longino TV ✪ | CL
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/75660
 
 
 # --- ESPAÑA ---
@@ -170,6 +173,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="España",Sol Música España
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
+#EXTINF:-1 group-title="España",Squirrel
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/4884
+
 
 # --- DEPORTES ---
 
@@ -256,6 +262,9 @@ http://38.226.210.46:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 group-title="Internacional",PARAMOUNT+
 http://cinemagold.club:80//live/Leec3324/Leec3324/317033.ts
+
+#EXTINF:-1 group-title="Internacional",Canal Hollywood
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/29483
 
 
 # --- CANALES PREMIUM ---
