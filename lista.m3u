@@ -65,6 +65,15 @@ https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Chile",Longino TV ✪ | CL
 http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/75660
 
+#EXTINF:-1 group-title="Chile",ETC TV
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/30467
+
+#EXTINF:-1 group-title="Chile",Locomotion
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/20
+
+#EXTINF:-1 group-title="Chile",SEMPAI TV
+http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/80031
+
 
 # --- ESPAÑA ---
 
