@@ -209,6 +209,9 @@ http://tv.masterplaytv.pro:8080/rhenao/e45544f33768/10251
 #EXTINF:-1 group-title="Internacional",CNN Internacional
 http://38.224.175.2:8000/play/a034/index.m3u8
 
+#EXTINF:-1 group-title="Internacional",RT ESPAÑOL
+https://tv.nousiptv.com:8443/Lopera77/872399/1155802
+
 #EXTINF:-1 group-title="Internacional",TELEMUNDO NOTICIAS
 http://38.224.175.2:8000/play/a05t/index.m3u8
 
