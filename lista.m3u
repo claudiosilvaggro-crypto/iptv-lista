@@ -77,8 +77,8 @@ http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/80031
 
 # --- ESPAÑA ---
 
-#EXTINF:-1 group-title="España",TVE
-http://38.52.208.106:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="España",MEGA
+https://tv.nousiptv.com:8443/853030a1/anibalp/1156019
 
 #EXTINF:-1 group-title="España",TVE INTERNACIONAL
 http://cinemagold.club:80//live/Leec3324/Leec3324/361099.ts
@@ -88,6 +88,9 @@ http://cinemagold.club:80//live/Leec3324/Leec3324/316487.ts
 
 #EXTINF:-1 group-title="España",ANTENA 3
 http://38.224.231.98:8000/playlist.m3u8
+
+#EXTINF:-1 group-title="España",Atres Series INT
+https://tv.nousiptv.com:8443/853030a1/anibalp/3961
 
 #EXTINF:-1 group-title="España",Atres Series
 http://38.224.231.98:8000/play/a02c/index.m3u8
