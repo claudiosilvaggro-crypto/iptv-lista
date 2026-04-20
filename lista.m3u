@@ -81,10 +81,10 @@ http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/80031
 https://tv.nousiptv.com:8443/853030a1/anibalp/1156019
 
 #EXTINF:-1 group-title="España",TVE INTERNACIONAL
-http://cinemagold.club:80//live/Leec3324/Leec3324/361099.ts
+http://daleplaytv.vip:80//live/123MMM/654321/317163.ts
 
 #EXTINF:-1 group-title="España",ODISEA
-http://cinemagold.club:80//live/Leec3324/Leec3324/316487.ts
+http://daleplaytv.vip:80//live/123MMM/654321/316487.ts
 
 #EXTINF:-1 group-title="España",ANTENA 3
 http://38.224.231.98:8000/playlist.m3u8
@@ -96,10 +96,10 @@ https://tv.nousiptv.com:8443/853030a1/anibalp/3961
 http://38.224.231.98:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 group-title="España",CUATRO
-http://cinemagold.club:80//live/Leec3324/Leec3324/110049.ts
+http://daleplaytv.vip:80//live/123MMM/654321/317169.ts
 
 #EXTINF:-1 group-title="España",COSMO
-http://cinemagold.club:80//live/Leec3324/Leec3324/110080.ts
+http://daleplaytv.vip:80//live/123MMM/654321/316384.ts
 
 #EXTINF:-1 group-title="España",ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
@@ -147,22 +147,25 @@ https://videoserver.tmcreativos.com:19360/wwzthqpupr/wwzthqpupr.m3u8
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 
 #EXTINF:-1 group-title="España",La 2
-http://cinemagold.club:80//live/Leec3324/Leec3324/315677.ts
+http://daleplaytv.vip:80//live/123MMM/654321/316181.ts
 
 #EXTINF:-1 group-title="España",TELE 5
-http://cinemagold.club:80//live/Leec3324/Leec3324/316189.ts
+http://daleplaytv.vip:80//live/123MMM/654321/317170.ts
 
 #EXTINF:-1 group-title="España",Divinity FHD
-http://cinemagold.club:80//live/Leec3324/Leec3324/316201.ts
+http://daleplaytv.vip:80//live/123MMM/654321/316201.ts
 
 #EXTINF:-1 group-title="España",FDF FHD
-http://cinemagold.club:80//live/Leec3324/Leec3324/316203.ts
+http://daleplaytv.vip:80//live/123MMM/654321/316203.ts
 
 #EXTINF:-1 group-title="España",TEN FHD
-http://cinemagold.club:80//live/Leec3324/Leec3324/316209.ts
+http://daleplaytv.vip:80//live/123MMM/654321/316209.ts
 
 #EXTINF:-1 group-title="España",Neox FHD
-http://cinemagold.club:80//live/Leec3324/Leec3324/316193.ts
+http://daleplaytv.vip:80//live/123MMM/654321/110062.ts
+
+#EXTINF:-1 group-title="España",La 1
+http://daleplaytv.vip:80//live/123MMM/654321/316180.ts
 
 #EXTINF:-1 group-title="España",La 1 Catalunya
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -186,7 +189,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #EXTINF:-1 group-title="España",Squirrel
-http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/4884
+http://daleplaytv.vip:80//live/123MMM/654321/316334.ts
 
 #EXTINF:-1 group-title="España",HISPAN TV
 https://tv.nousiptv.com:8443/Lopera77/872399/33481
@@ -282,10 +285,10 @@ http://38.224.231.98:8000/play/a01d/index.m3u8
 http://38.226.210.46:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 group-title="Internacional",PARAMOUNT+
-http://cinemagold.club:80//live/Leec3324/Leec3324/317033.ts
+http://daleplaytv.vip:80//live/123MMM/654321/317033.ts
 
 #EXTINF:-1 group-title="Internacional",Canal Hollywood
-http://stklatino.dynns.com:2082/Enriquearaya/KbX7KLF64d4q/29483
+http://daleplaytv.vip:80//live/123MMM/654321/315773.ts
 
 
 # --- CANALES PREMIUM ---
@@ -315,7 +318,7 @@ http://181.78.98.214:8000/play/a00h/index.m3u8
 # --- CANALES TELENOVELAS Y SERIES ---
 
 #EXTINF:-1 group-title="Canales Telenovelas y Series", K Drama
-http://cinemagold.club:80//live/Leec3324/Leec3324/317535.ts
+http://daleplaytv.vip:80//live/123MMM/654321/360895.ts
 
 #EXTINF:-1 group-title="Canales Telenovelas y Series",Pasiones
 http://38.52.208.106:8000/play/a04x/index.m3u8
