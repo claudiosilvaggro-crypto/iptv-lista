@@ -233,6 +233,9 @@ http://181.78.98.214:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Internacional",CINECANAL
 http://38.52.208.106:8000/play/a047/index.m3u8
 
+#EXTINF:-1 group-title="Internacional",CINEMA TV Azteca
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46101.ts
+
 #EXTINF:-1 group-title="Internacional",DHE
 http://38.52.208.106:8000/play/a00e/index.m3u8
 
