@@ -249,43 +249,52 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1155821
 http://38.224.175.2:8000/play/a05t/index.m3u8
 
 #EXTINF:-1 group-title="Internacional",UNIVERSAL
-http://181.78.98.214:8000/play/a00s/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46244.ts
 
 #EXTINF:-1 group-title="Internacional",CINECANAL
-http://38.52.208.106:8000/play/a047/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46108.ts
 
 #EXTINF:-1 group-title="Internacional",CINEMA TV Azteca
 http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46102.ts
 
 #EXTINF:-1 group-title="Internacional",DHE
-http://38.52.208.106:8000/play/a00e/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46123.ts
 
 #EXTINF:-1 group-title="Internacional",FX
-http://38.52.208.106:8000/play/a02u/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46132.ts
+
+#EXTINF:-1 group-title="Internacional",FX HD
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46130.ts
 
 #EXTINF:-1 group-title="Internacional",CINEMAX
-http://181.78.98.214:8000/play/a00p/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46111.ts
 
 #EXTINF:-1 group-title="Internacional",WARNER
-http://181.78.98.214:8000/play/a00q/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46250.ts
 
 #EXTINF:-1 group-title="Internacional", MULTIPREMIER
-http://181.78.98.214:8000/play/a00k/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46168.ts
 
 #EXTINF:-1 group-title="Internacional",SPACE
-http://181.78.98.214:8000/play/a009/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46178.ts
 
 #EXTINF:-1 group-title="Internacional",PARAMOUNT
-http://181.78.98.214:8000/play/a00i/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46170.ts
 
 #EXTINF:-1 group-title="Internacional",STAR CHANNEL
-http://181.78.98.214:8000/play/a00j/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46188.ts
 
 #EXTINF:-1 group-title="Internacional",GOLDEN EDGE
-http://38.226.210.46:8000/play/a04u/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46188.ts
 
 #EXTINF:-1 group-title="Internacional",GOLDEN 
 http://38.226.210.46:8000/play/a04o/index.m3u8
+
+#EXTINF:-1 group-title="Internacional",GOLDEN MX
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46142.ts
+
+#EXTINF:-1 group-title="Internacional",GOLDEN PREMIERE
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46141.ts
 
 #EXTINF:-1 group-title="Internacional",PRIDE TV
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
@@ -300,10 +309,13 @@ https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smi
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="Internacional",Azcorazon
-http://38.224.231.98:8000/play/a061/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/755507.ts
 
-#EXTINF:-1 group-title="Internacional",EUROCHANNEL
-http://38.224.231.98:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Internacional",Azcorazon 2
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/122544.ts
+
+#EXTINF:-1 group-title="Internacional",GOLDEN PLUS
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46138.ts
 
 #EXTINF:-1 group-title="Internacional",SUN CHANNEL
 http://38.226.210.46:8000/play/a03s/index.m3u8
@@ -330,13 +342,13 @@ http://8.242.175.210:8000/play/a08u/index.m3u8
 http://8.242.175.210:8000/play/a04u/index.m3u8
 
 #EXTINF:-1 group-title="Canales Premium",Universal Premiere
-http://38.52.208.106:8000/play/a04i/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/90082.ts
 
 #EXTINF:-1 group-title="Canales Premium",Universal Crime
-http://38.52.208.106:8000/play/a04l/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/90079.ts
 
 #EXTINF:-1 group-title="Canales Premium",HBO 2
-http://181.78.98.214:8000/play/a00h/index.m3u8
+http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46149.ts
 
 
 # --- CANALES TELENOVELAS Y SERIES ---
