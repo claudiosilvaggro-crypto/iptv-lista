@@ -248,6 +248,9 @@ https://tv.nousiptv.com:8443/Lopera77/872399/1155821
 #EXTINF:-1 group-title="Internacional",TELEMUNDO NOTICIAS
 http://38.224.175.2:8000/play/a05t/index.m3u8
 
+#EXTINF:-1 group-title="Internacional",CANAL DE LAS ESTRELLAS
+http://p2premium.club:80//live/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/362419.ts
+
 #EXTINF:-1 group-title="Internacional",UNIVERSAL
 http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46244.ts
 
@@ -258,7 +261,7 @@ http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46108.ts
 http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46102.ts
 
 #EXTINF:-1 group-title="Internacional",DHE
-http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46123.ts
+http://p2premium.club:80//live/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/400290.ts
 
 #EXTINF:-1 group-title="Internacional",FX
 http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46132.ts
@@ -326,6 +329,16 @@ http://daleplaytv.vip:80//live/123MMM/654321/317033.ts
 #EXTINF:-1 group-title="Internacional",Canal Hollywood
 http://daleplaytv.vip:80//live/123MMM/654321/315773.ts
 
+#EXTINF:-1 group-title="Internacional",Europa Europa
+http://p2premium.club:80//live/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/317522.ts
+
+#EXTINF:-1 group-title="Internacional",HISTORY
+http://p2premium.club:80//live/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/53482.ts
+
+#EXTINF:-1 group-title="Internacional",HISTORY 2
+http://p2premium.club:80//live/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/53488.ts
+
+
 
 # --- CANALES PREMIUM ---
 
@@ -346,6 +359,12 @@ http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/90082.ts
 
 #EXTINF:-1 group-title="Canales Premium",Universal Crime
 http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/90079.ts
+
+#EXTINF:-1 group-title="Canales Premium",UNIVERSAL CINEMA HD
+http://p2premium.club:80//live/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/111421.ts
+
+#EXTINF:-1 group-title="Canales Premium",UNIVERSAL Comedy
+http://p2premium.club:80//live/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/111417.ts
 
 #EXTINF:-1 group-title="Canales Premium",HBO 2
 http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46149.ts
@@ -377,6 +396,9 @@ http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46228.ts
 
 #EXTINF:-1 group-title="Canales Telenovelas y Series",TNT Series
 http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46242.ts
+
+#EXTINF:-1 group-title="Canales Telenovelas y Series",USA Series
+http://p2premium.club:80//live/LuisViloriaJIPTVCLUB/ymrhqfPvddGg/346686.ts
 
 #EXTINF:-1 group-title="Canales Telenovelas y Series",AMC
 http://deluxe-tv.site:80/Irina0522soto/hHnHvrKRhE/46090.ts
